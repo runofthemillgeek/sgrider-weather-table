@@ -1,5 +1,7 @@
 # WeatherTable
 
+![](https://image.ibb.co/df5JyT/wtab.gif)
+
 Silly little application made with React+Redux, a small project part of [@StephenGrider's](https://github.com/StephenGrider) React course.
 
 ## Setup
